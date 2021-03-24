@@ -1,5 +1,6 @@
 ## Brandan Foster - @realdogdad
-I'm a former Marine who thoroughly enjoys applying mathematics and statistics to structured and unstructured data, building cloud based applications with CI/CD principles and promoting technology adoption and literacy in senior citizen communities.
+### Soon-to-Graduate: June 2021
+I want to work with startups to bring their vision to the world. I am a 'fire and forget' developer with experience in Web, Mobile, and Cloud development.
 
 [![Email bfoster](https://img.shields.io/badge/Email-brandan@getfoster.net-greeb?style=for-the-badge)](mailto:brandan@getfoster.net)
 [![Website bfoster](https://img.shields.io/badge/Website-./getfoster-yellow?style=for-the-badge)](https:www.getfoster.net/hire-me)
