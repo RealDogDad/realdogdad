@@ -1,6 +1,6 @@
 ## Brandan Foster - @realdogdad
-### Soon-to-Graduate: June 2021
-I want to work with startups to bring their vision to the world. I am a 'fire and forget' developer with experience in Web, Mobile, and Cloud development.
+### Systems Analyst
+Assisting the Hotel industry in making smart, data-driven choices via Business Intelligence at Pineapple Hospitality!
 
 [![Email bfoster](https://img.shields.io/badge/Email-brandan@getfoster.net-greeb?style=for-the-badge)](mailto:brandan@getfoster.net)
 [![Website bfoster](https://img.shields.io/badge/Website-RealDogDad.Dev-yellow?style=for-the-badge)](hhttps://realdogdad.dev/)
