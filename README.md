@@ -7,4 +7,4 @@ I am applying modern techniques of data lifecycle management to develop a high p
 [![Email bfoster](https://img.shields.io/badge/Email-bfoster@staypineapple.com-greeb?style=for-the-badge)](mailto:bfoster@staypineapple.com)
 [![Website bfoster](https://img.shields.io/badge/Website-RealDogDad.Dev-yellow?style=for-the-badge)](https://realdogdad.github.io/)
 [![Twitter realdogdad](https://img.shields.io/badge/Twitter-@real_dog_dad-9cf?style=for-the-badge)](https://twitter.com/real_dog_dad)
-[![LinkedIn bfoster](https://img.shields.io/badge/LinkedIn-getfoster-blue?style=for-the-badge)](https://www.linkedin.com/in/getfoster/)
+[![LinkedIn bfoster](https://img.shields.io/badge/LinkedIn-getfoster-blue?style=for-the-badge)](https://www.linkedin.com/in/realdogdad/)
