@@ -4,6 +4,8 @@
 
 Designing, documenting and implementing data applications utilizing MySQL 8, Tableau (Prep and Server), and cloud technologies to modenize Staypineapple's approach to data culture.
 I am applying modern techniques of data lifecycle management to develop a high performance hospitality data model and data gorvernance program.
+My side works include:
+    - A Reservation System for my family reunion [![Pesek.Page](https://img.shields.io/badge/Pesek-Page-d49999?style=for-the-badge)](https://pesek.page)
 
 ---
 [![Email work-bfoster](https://img.shields.io/badge/Email-bfoster@staypineapple.com-00843d?style=for-the-badge&logo=gmail)](mailto:bfoster@staypineapple.com)
