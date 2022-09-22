@@ -4,9 +4,9 @@
 
 Designing, documenting and implementing data applications utilizing MySQL 8, Tableau (Prep and Server), and cloud technologies to modenize Staypineapple's approach to data culture.
 I am applying modern techniques of data lifecycle management to develop a high performance hospitality data model and data gorvernance program.
-My side works include:
-    - A Reservation System for my family reunion [![Pesek.Page](https://img.shields.io/badge/Pesek-Page-d49999?style=for-the-badge)](https://pesek.page)
 
+---
+Things I've done:
 ---
 [![Email work-bfoster](https://img.shields.io/badge/Email-bfoster@staypineapple.com-00843d?style=for-the-badge&logo=gmail)](mailto:bfoster@staypineapple.com)
 [![Email personal-bfoster](https://img.shields.io/badge/Email-brandan@getfoster.net-8B89CC?style=for-the-badge&logo=ProtonMail)](mailto:brandan@getfoster.net)
@@ -17,3 +17,4 @@ My side works include:
 [![Dev.to RealDogDad](https://img.shields.io/badge/Dev.to-@RealDogDad-181717?style=for-the-badge&logo=dev.to)](https://dev.to/realdogdad)
 [![Codepen.io RealDogDad](https://img.shields.io/badge/Codepen-@RealDogDad-181717?style=for-the-badge&logo=codepen)](https://codepen.io/RealDogDad)
 [![Youtube RealDogDad](https://img.shields.io/badge/Youtube-@RealDogDad-181717?style=for-the-badge&logo=youtube)](https://www.youtube.com/realdogdad)
+[![Pesek.Page](https://img.shields.io/badge/Pesek-Page-d49999?style=for-the-badge)](https://pesek.page)
