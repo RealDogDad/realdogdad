@@ -1,9 +1,9 @@
-## Brandan Foster - @realdogdad
-### Systems Analyst
+## Brandan Foster - @RealDogdad - Systems Analyst - He/Him/His
 ---
-
-Designing, documenting and implementing data applications utilizing MySQL 8, Tableau (Prep and Server), and cloud technologies to modenize Staypineapple's approach to data culture.
-I am applying modern techniques of data lifecycle management to develop a high performance hospitality data model and data gorvernance program.
+Hey 👋! I am Brandan! I enjoy mountain biking 🚵‍♂️, technology 💾 and dogs 🐕.
+I can generally be found sitting in my living room cooking up some crazy app that no one needs 👨‍💻. 
+But on rare occasions I can be caught in the mountains 🏔️ with my wife & 2 dogs.
+I'm paid 💵 to assist in designing, & implementing data applications utilizing MySQL 8, Tableau (Prep & Server), & cloud technologies to modenize Staypineapple's approach to data culture. I am applying modern techniques of data lifecycle management to develop a high performance hospitality data model & data gorvernance program.
 
 ---
 Things I've done:
