@@ -4,7 +4,6 @@ Hey 👋! I am Brandan! I enjoy mountain biking 🚵‍♂️, technology 💾 a
 I can generally be found sitting in my living room cooking up some crazy app that no one needs 👨‍💻. 
 But on rare occasions I can be caught in the mountains 🏔️ with my wife & 2 dogs.
 I'm paid 💵 to assist in designing, & implementing data applications utilizing MySQL 8, Tableau (Prep & Server), & cloud technologies to modenize Staypineapple's approach to data culture. I spend my days 🗓️ applying modern techniques of data lifecycle management to develop a high performance hospitality data model & data gorvernance program.
-[![Email work-bfoster](https://img.shields.io/badge/Email-bfoster@staypineapple.com-00843d?style=for-the-badge&logo=gmail)](mailto:bfoster@staypineapple.com)
 [![Email personal-bfoster](https://img.shields.io/badge/Email-brandan@getfoster.net-8B89CC?style=for-the-badge&logo=ProtonMail)](mailto:brandan@getfoster.net)
 
 ---
