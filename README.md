@@ -1,9 +1,8 @@
-## Brandan Foster - @RealDogdad - Systems Analyst - He/Him/His
+## Brandan Foster - @RealDogdad - Pet Specialist - Aquarist - He/Him/His
 ---
-Hey 👋! I am Brandan! I enjoy mountain biking 🚵‍♂️, technology 💾 and dogs 🐕.
-I can generally be found sitting in my living room cooking up some crazy app that no one needs 👨‍💻. 
-But on rare occasions I can be caught in the mountains 🏔️ with my wife & 2 dogs.
-Currently the market is 📉 down. So I am returning to school and readying myself for round 2 in Tech.
+I'm Brandan. I was a Marine , a coder, a tech salesman and now I sell pets .
+---
+
 [![Email personal-bfoster](https://img.shields.io/badge/Email-brandan@getfoster.net-8B89CC?style=for-the-badge&logo=ProtonMail)](mailto:brandan@getfoster.net)
 
 ---
